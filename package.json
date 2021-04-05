@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/floydjones1/javascript101.git",
+  "author": "floydjones1",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
